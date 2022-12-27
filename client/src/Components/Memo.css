@@ -1,0 +1,23 @@
+.msg {
+  font-weight: bold;
+  margin-right: 10rem;
+}
+.msg1 {
+  font-weight: bold;
+  margin-right: 5rem;
+  margin-left: 5rem;
+}
+.msg2 {
+  font-weight: bold;
+  margin-right: 5rem;
+  margin-left: 10rem;
+}
+.msg3 {
+  font-weight: bold;
+  margin-right: 5rem;
+  margin-left: 10rem;
+}
+
+.td {
+  margin-left: 1rem;
+}

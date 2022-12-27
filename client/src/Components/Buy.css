@@ -1,0 +1,14 @@
+.form-label{
+    font-weight: bold;
+}
+.form-control{
+    background-color: transparent;
+    color: black;
+    font-weight: bold;
+}
+
+.btn{
+    font-weight: bold;
+    border: 2px solid black;
+    margin-bottom: 1rem;
+}
